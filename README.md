@@ -1,11 +1,18 @@
-<div align="center">
+# Gemini Visionary Studio
 
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+A high-performance, multimodal AI creative suite powered by Google Gemini 3. This application bridges the gap between static conversational AI and real-time live interaction, allowing users to manifest visual ideas onto a dynamic, draggable canvas.
 
-  <h1>Built with AI Studio</h2>
+## 🚀 Tech Stack
+- **Framework:** React 19 (Latest)
+- **Styling:** Tailwind CSS (Dark/Glassmorphism theme)
+- **Animations:** Framer Motion & Lucide React
+- **AI Core:** `@google/genai` (Gemini 3 Flash, Gemini 2.5 Flash Image, Gemini Live API)
 
-  <p>The fastest path from prompt to production with Gemini.</p>
+## 🌟 Core Features
+- **Multimodal Canvas:** Draggable, resizable cards representing AI thoughts and generations.
+- **Static Mode:** Long-context analysis and structured image generation via JSON orchestration.
+- **Live Mode:** Ultra-low latency voice and video interaction using Function Calling for tool execution.
+- **Downloadable Assets:** High-quality PNG generation with direct-to-device download pipeline.
 
-  <a href="https://aistudio.google.com/apps">Start building</a>
-
-</div>
+---
+*Developed by Senior AI Engineering Team*

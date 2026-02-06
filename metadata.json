@@ -1,0 +1,8 @@
+{
+  "name": "Gemini Visionary Studio",
+  "description": "A high-performance multimodal AI application for interactive image generation and real-time live interaction using Gemini 3.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
